@@ -1,0 +1,5 @@
+# baysan-data-shortcuts install from local
+./baysan_data_shortcuts/
+black
+pylint
+click
